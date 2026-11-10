@@ -1,115 +1,219 @@
-# Awesome-Business-Utility-Productivity-Tools
+<div align="center">
 
-## Top Business Utility & Productivity Tools Ecosystem
+<a href="https://github.com/ishandutta2007/Awesome-Business-Utility-Productivity-Tools">
+  <img src="assets/banner.svg" alt="Awesome Business Utility &amp; Productivity Tools Banner" width="100%" />
+</a>
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**  
-*Focused on Workflow Automation, Knowledge Management & Team Collaboration Utilities*  
-**Last updated: March 2026**
+# 🚀 Awesome Business Utility & Productivity Tools
 
-This repository tracks notable **SaaS platforms** and **open-source projects** for **Business Utility & Productivity Tools**. These tools help teams automate repetitive work, organize knowledge, manage projects visually, schedule meetings, record async video, and secure credentials—covering the connective tissue that holds modern workflows together.
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Business-Utility-Productivity-Tools/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Business-Utility-Productivity-Tools?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Business-Utility-Productivity-Tools/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Business-Utility-Productivity-Tools?style=social" alt="GitHub Forks" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Business-Utility-Productivity-Tools/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Business-Utility-Productivity-Tools?color=green" alt="Issues" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Business-Utility-Productivity-Tools/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
-**Examples** include Zoho Workplace, Notion, Zapier, Airtable, ClickUp, Miro, Loom, Calendly, Bitwarden, and IFTTT (the category leaders).
+**A curated index of best-in-class SaaS platforms, cloud utilities, and self-hosted open-source GitHub alternatives.**  
+*Empowering modern businesses, startups, and developer teams to automate workflows, organize institutional knowledge, orchestrate projects, and eliminate operational friction.*
 
-**Open-source emphasis**: This section highlights every major active project for self-hosted automation engines, knowledge bases, visual collaboration boards, and password managers—ideal for privacy-conscious teams, developers, and organizations seeking transparent, vendor-neutral productivity infrastructure without per-seat lock-in.
+---
 
-Contributions welcome! Open an PR to add/update entries. Keep descriptions factual and link to official sites.
+</div>
 
-## Table of Contents
-- [SaaS/Hosted Platforms](#saas-products)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer](#disclaimer)
+## 📑 Table of Contents
+- [🌐 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [💼 Top SaaS Products](#-top-saas-products)
+- [🛠️ Open-Source GitHub Projects](#️-open-source-github-projects)
+- [🏗️ Architectural Recipes: Building Sovereign Stacks](#️-architectural-recipes-building-sovereign-stacks)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [📈 Star History](#-star-history)
+- [⚖️ Disclaimer](#️-disclaimer)
 
-## SaaS Products
+---
 
-| Product | Category / Description | Pricing / Limits | Free Tier Limits |
-| :--- | :--- | :--- | :--- |
-| **[Zoho Workplace](https://www.zoho.com/workplace/)** | Integrated productivity suite bundling Mail, WorkDrive, Office Suite (Writer, Sheet, Show), Cliq (chat), Meeting, and Connect. Deep CRM integration. | Standard starts at ~$3/user/month; Professional starts at ~$6/user/month. | Free plan available for up to 5 users (5 GB/user mail storage, web access). |
-| **[Notion](https://www.notion.so/)** | All-in-one workspace combining notes, docs, databases, wikis, and project management with a block-based editor. | Plus starts at $10/user/month (billed annually); Business starts at $15/user/month; AI add-on at $8–$10/user/month. | Free for individuals: unlimited pages/blocks, up to 10 guest collaborators, 5 MB file upload limit. |
-| **[Zapier](https://zapier.com/)** | No-code workflow automation platform connecting 7,000+ apps via triggers and actions. | Professional starts at $19.99/month (annual); Team starts at $69/month. | Free tier includes 100 tasks/month, 2-step Zaps, and unlimited zaps. |
-| **[Airtable](https://airtable.com/)** | Relational database-spreadsheet hybrid with multiple views (grid, kanban, calendar, Gantt, gallery). | Team starts at $20/seat/month (annual); Business starts at $45/seat/month. | Free tier includes unlimited bases, up to 1,000 records/base, 1 GB attachments/base, and 100 automation runs/month. |
-| **[ClickUp](https://clickup.com/)** | All-in-one project management platform with docs, chat, goals, dashboards, and automated workflows. | Unlimited at $7/user/month (annual); Business at $12/user/month. | Free Forever plan includes 100 MB storage, unlimited tasks, unlimited members, and 100 automation actions/month. |
-| **[Miro](https://miro.com/)** | Visual collaboration whiteboard with templates, infinite canvas, diagramming, and interactive presentation tools. | Starter starts at $8/member/month (annual); Business starts at $20/member/month. | Free plan includes 3 editable boards, premade templates, core integrations, and basic visual collaboration. |
-| **[Loom](https://www.loom.com/)** | Async video messaging tool for screen and camera recording with instant shareable links and AI summaries. | Business starts at $12.50/creator/month (annual); Business + AI at $24/creator/month. | Free plan includes up to 25 videos/creator with a 5-minute recording limit per video. |
-| **[Calendly](https://calendly.com/)** | Scheduling automation platform connecting calendar feeds to eliminate back-and-forth emails. | Standard starts at $10/seat/month (annual); Teams starts at $16/seat/month. | Free tier includes 1 active event type, 1 calendar connection, and unlimited 1-on-1 meeting bookings. |
-| **[Bitwarden](https://bitwarden.com/)** | Secure open-source password manager with end-to-end zero-knowledge encryption across all devices. | Premium at $10/year for individuals; Families at $40/year; Teams at $4/user/month. | Free tier covers unlimited passwords, items, and sync across unlimited devices for 1 user. |
-| **[IFTTT](https://ifttt.com/)** | Lightweight trigger-and-action automation service connecting mobile devices, web apps, and smart IoT gadgets. | Pro starts at $3.49/month; Pro+ starts at $14.99/month. | Free plan includes standard applets, unlimited applet runs, and basic service connections. |
+## 🌐 Sector Overview & Market Dynamics
 
-## Open-Source GitHub Projects
+The global business utility and productivity software market is currently valued at approximately **$104 billion to $110 billion** and continues to expand rapidly at a compound annual growth rate (CAGR) of 11% to 12%. 
 
-The following open-source solutions provide self-hostable, transparent, and vendor-neutral productivity infrastructure. They are sorted in descending order by GitHub star count:
+In terms of structure, the sector exhibits a dual dynamic: it is **moderately concentrated at the suite and platform layer** (dominated by enterprise anchors such as Microsoft 365, Google Workspace, and Salesforce), yet **highly fragmented at the specialized application and utility layer** (where dedicated workflow automation, visual collaboration, note-taking, and scheduling engines compete intensely on user experience, developer extensibility, and domain-specific depth rather than a winner-take-all monopoly).
+
+---
+
+## 💼 Top SaaS Products
+
+The table below lists leading commercial business utilities sorted in descending order by estimated market valuation and revenue size.
+
+| Product | Size / Valuation / ARR | Category & Core Value Proposition | Pricing (Starting Paid Tier) | Free Tier / Trial Limits |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Zoho Workplace](https://www.zoho.com/workplace/)** | **~$12.5B Valuation**<br>*(~$1.5B ARR)* | Integrated cloud enterprise office suite (Mail, WorkDrive, Docs, Sheets, Cliq team chat, and Meetings). | **Standard:** $3/user/month (billed annually) for 30 GB mail storage & 10 GB shared WorkDrive storage. | **Free Plan:** Free forever for up to 5 users, 5 GB mail storage per user, and web-only client access. |
+| **[Notion](https://www.notion.so/)** | **$11B Valuation**<br>*(~$600M–$865M ARR)* | Flexible all-in-one collaborative workspace combining docs, wikis, relational databases, and project boards. | **Plus:** $10/user/month (billed annually) with unlimited file uploads, 30-day version history, and 100 guest invites. | **Free Plan:** Free forever for individuals with unlimited pages/blocks, up to 10 guest collaborators, and 5 MB file upload limit. |
+| **[Zapier](https://zapier.com/)** | **$5B Valuation**<br>*(~$310M ARR)* | No-code enterprise workflow automation middleware integrating 7,000+ business applications. | **Professional:** $19.99/month (billed annually) for 750 tasks/month, multi-step Zaps, webhooks, and filters. | **Free Plan:** Free forever with 100 tasks/month, single-trigger/single-action (2-step) Zaps, and 15-minute update frequency. |
+| **[ClickUp](https://clickup.com/)** | **$4B Valuation**<br>*(~$300M ARR)* | Converged project management suite unifying tasks, documents, real-time chat, whiteboards, goals, and dashboards. | **Unlimited:** $7/user/month (billed annually) with unlimited storage, unlimited integrations, and Gantt charts. | **Free Forever Plan:** 100 MB file storage limit, unlimited tasks, unlimited members, and 100 automation actions/month. |
+| **[Calendly](https://calendly.com/)** | **$3B Valuation**<br>*(~$275M ARR)* | Automated meeting scheduling and calendar coordination platform eliminating back-and-forth emails. | **Standard:** $10/seat/month (billed annually) for unlimited active event types, multiple calendars, and automated reminders. | **Free Plan:** Free forever with 1 active event type, 1 connected calendar, and standard 1-on-1 booking functionality. |
+| **[Airtable](https://airtable.com/)** | **$1.285B Acquired EV**<br>*(~$480M ARR)* | Low-code relational database-spreadsheet hybrid with dynamic views (Grid, Kanban, Calendar, Timeline, Gantt). | **Team:** $20/seat/month (billed annually) for 50,000 records/base, 20 GB attachments/base, and 25,000 automation runs. | **Free Plan:** Free forever for up to 5 editors with unlimited bases, 1,000 records/base, 1 GB attachments, and 100 automation runs/month. |
+| **[Miro](https://miro.com/)** | **$1.355B Acquired EV**<br>*(~$600M ARR)* | Visual collaboration canvas and infinite whiteboard platform for design thinking, agile mapping, and workshops. | **Starter:** $8/member/month (billed annually) with unlimited boards, private board sharing, and high-resolution exports. | **Free Plan:** Free forever with 3 editable boards, core integrations (Slack, Google Drive), and premade template library. |
+| **[Loom](https://www.loom.com/)** | **$975M Acquisition**<br>*(~$50M ARR)* | Asynchronous video recording and instant screen-sharing platform with automated transcription and AI insights. | **Business:** $12.50/creator/month (billed annually) for unlimited videos, unlimited recording length, and 4K recording. | **Free Plan:** Free forever for up to 25 videos per creator with a maximum 5-minute recording duration limit per video. |
+| **[Bitwarden](https://bitwarden.com/)** | **$100M+ Raised**<br>*(Private Scale)* | Zero-knowledge, open-cloud password vault and secrets manager for distributed workforce security. | **Premium:** $10/year ($0.83/month) for individual advanced 2FA; **Teams:** $4/user/month for event logs and directory sync. | **Free Plan:** Free forever for 1 user across unlimited devices with unlimited password and secure note storage. |
+| **[IFTTT](https://ifttt.com/)** | **~$96M Valuation**<br>*(~$5M–$8M ARR)* | Lightweight event-driven trigger-action automation engine connecting mobile devices, IoT hardware, and web APIs. | **Pro:** $3.49/month (billed annually) for 20 multi-action Applets, faster query polling, and filter logic. | **Free Plan:** Free forever for up to 2 active Applets with standard polling and unlimited applet runs. |
+
+---
+
+## 🛠️ Open-Source GitHub Projects
+
+Self-hostable, sovereign, and privacy-respecting alternatives that liberate organizations from proprietary lock-in. Sorted in descending order by GitHub star count:
 
 - **[n8n](https://github.com/n8n-io/n8n)** [![GitHub stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white)](https://github.com/n8n-io/n8n/stargazers)  
-  Fair-code workflow automation platform with native AI capabilities. Combines visual node-based building with custom JavaScript/Python code, 400+ integrations, and self-hosting options; the leading open-source Zapier alternative.
+  *Fair-code workflow automation platform with native AI agent orchestration and 400+ pre-built integrations.*  
+  Enables developers to visually construct multi-step business logic, write custom JavaScript/Python transformations, execute self-hosted webhooks, and replace commercial Zapier workflows with full data governance.
 
 - **[Excalidraw](https://github.com/excalidraw/excalidraw)** [![GitHub stars](https://img.shields.io/github/stars/excalidraw/excalidraw?style=social&color=white)](https://github.com/excalidraw/excalidraw/stargazers)  
-  Virtual whiteboard for sketching hand-drawn like diagrams with end-to-end encryption, infinite canvas, and real-time collaboration.
+  *Virtual hand-drawn whiteboard for collaborative architecture diagrams and wireframes.*  
+  Offers end-to-end encryption, infinite canvas navigation, live multi-cursor collaboration, and flexible export capabilities without external SaaS tracking.
 
 - **[AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)** [![GitHub stars](https://img.shields.io/github/stars/AppFlowy-IO/AppFlowy?style=social&color=white)](https://github.com/AppFlowy-IO/AppFlowy/stargazers)  
-  AI collaborative workspace bringing projects, wikis, and teams together without losing control of your data. The leading privacy-focused, open-source Notion alternative built with Flutter and Rust.
+  *Privacy-first, open-source collaborative workspace alternative to Notion.*  
+  Engineered with Flutter and Rust for high performance, local-first offline support, complete data sovereignty, AI-assisted writing, and database views.
 
 - **[AFFiNE](https://github.com/toeverything/AFFiNE)** [![GitHub stars](https://img.shields.io/github/stars/toeverything/AFFiNE?style=social&color=white)](https://github.com/toeverything/AFFiNE/stargazers)  
-  Next-generation local-first knowledge base combining Notion-style structured documents with Miro-style visual whiteboards; privacy-first, open-source, and fully self-hostable via Docker.
+  *Next-gen all-in-one knowledge base uniting structured Markdown documents and Miro-style whiteboards.*  
+  Features an offline-first architecture, customizable canvas modes, and seamless self-hosting via Docker Compose.
 
 - **[Vaultwarden](https://github.com/dani-garcia/vaultwarden)** [![GitHub stars](https://img.shields.io/github/stars/dani-garcia/vaultwarden?style=social&color=white)](https://github.com/dani-garcia/vaultwarden/stargazers)  
-  Lightweight Bitwarden-compatible server written in Rust, providing full password vault features with minimal resource usage; ideal for self-hosted home and business servers.
+  *Lightweight Bitwarden-compatible password vault backend implemented in Rust.*  
+  Provides full compatibility with official Bitwarden browser extensions, desktop clients, and mobile apps while consuming negligible memory.
 
 - **[NocoDB](https://github.com/nocodb/nocodb)** [![GitHub stars](https://img.shields.io/github/stars/nocodb/nocodb?style=social&color=white)](https://github.com/nocodb/nocodb/stargazers)  
-  Open-source no-code platform that turns any relational database (PostgreSQL, MySQL, SQLite, SQL Server) into a smart spreadsheet; prime alternative to Airtable.
+  *Open-source smart spreadsheet and no-code database turning relational databases into Airtable interfaces.*  
+  Connects directly to PostgreSQL, MySQL, SQL Server, and SQLite with collaborative Grid, Gallery, Form, and Kanban views.
 
 - **[Plane](https://github.com/makeplane/plane)** [![GitHub stars](https://img.shields.io/github/stars/makeplane/plane?style=social&color=white)](https://github.com/makeplane/plane/stargazers)  
-  Modern open-source project management platform positioned as an alternative to Jira, Linear, and ClickUp. Features task tracking, Cycles (sprints), Modules, Pages (docs/wikis), triage, and multiple view layouts.
+  *Open-source project management platform built as an alternative to Jira, Linear, and ClickUp.*  
+  Offers sprint cycles, module tracking, live issue triage, documentation pages, and GitHub synchronization in a responsive, modern interface.
 
 - **[Twenty](https://github.com/twentyhq/twenty)** [![GitHub stars](https://img.shields.io/github/stars/twentyhq/twenty?style=social&color=white)](https://github.com/twentyhq/twenty/stargazers)  
-  Modern open-source CRM platform designed for flexibility and AI; provides an open, modern alternative to Salesforce and HubSpot for managing business pipelines.
+  *Modern open-source CRM platform engineered as a modular alternative to Salesforce and HubSpot.*  
+  Provides full control over customer relational data, customizable pipelines, GraphQL/REST APIs, and native AI capabilities.
 
 - **[tldraw](https://github.com/tldraw/tldraw)** [![GitHub stars](https://img.shields.io/github/stars/tldraw/tldraw?style=social&color=white)](https://github.com/tldraw/tldraw/stargazers)  
-  Tiny, fast infinite canvas whiteboard and SDK for React; enables flexible diagramming, whiteboarding, and custom visual collaborative canvases.
+  *Ultra-responsive infinite canvas library and collaborative digital whiteboard SDK.*  
+  Powers embeddable diagramming, custom interactive canvas experiences, and team brainstorms with a minimalistic React toolkit.
 
 - **[Cal.com](https://github.com/calcom/cal.com)** [![GitHub stars](https://img.shields.io/github/stars/calcom/cal.com?style=social&color=white)](https://github.com/calcom/cal.com/stargazers)  
-  Open-source scheduling infrastructure and Calendly alternative. Offers complete customizability, team scheduling, webhook triggers, and enterprise-grade calendar integration.
+  *Extensible, enterprise-grade scheduling infrastructure and Calendly alternative.*  
+  Offers white-label calendar bookings, round-robin team scheduling, video routing, custom webhook webhooks, and self-hosted deployment.
 
 - **[Focalboard](https://github.com/mattermost-community/focalboard)** [![GitHub stars](https://img.shields.io/github/stars/mattermost-community/focalboard?style=social&color=white)](https://github.com/mattermost-community/focalboard/stargazers)  
-  Open-source, self-hosted project and task management alternative to Trello, Notion, and Asana, maintained by Mattermost for team coordination.
+  *Self-hosted multilingual project tracking dashboard and Trello/Asana alternative from Mattermost.*  
+  Organizes personal and team deliverables across kanban boards, table grids, and calendar timelines.
 
 - **[Activepieces](https://github.com/activepieces/activepieces)** [![GitHub stars](https://img.shields.io/github/stars/activepieces/activepieces?style=social&color=white)](https://github.com/activepieces/activepieces/stargazers)  
-  Open-source, MIT-licensed business workflow automation platform with a visual builder, AI agents, MCP server support, and a fast-growing library of connectors.
+  *MIT-licensed no-code business automation tool with AI agent orchestration and MCP server support.*  
+  Empowers teams to assemble event-driven flows, integrate internal APIs, and automate operational workflows with self-hosted Docker containers.
 
 - **[Documenso](https://github.com/documenso/documenso)** [![GitHub stars](https://img.shields.io/github/stars/documenso/documenso?style=social&color=white)](https://github.com/documenso/documenso/stargazers)  
-  The open-source alternative to DocuSign and PandaDoc; provides signing workflows, document verification, and cryptographic signing that can be self-hosted.
+  *The open-source digital signing platform and modern alternative to DocuSign.*  
+  Enables verifiable, cryptographically secured document signing workflows, custom templates, and automated signing pipelines.
 
 - **[Baserow](https://github.com/baserow/baserow)** [![GitHub stars](https://img.shields.io/github/stars/baserow/baserow?style=social&color=white)](https://github.com/baserow/baserow/stargazers)  
-  Open-source no-code database platform alternative to Airtable. Lets teams create relational databases, forms, and custom applications with self-hosting and unlimited rows.
+  *No-code modular database platform designed for enterprise scale and Airtable parity.*  
+  Handles tens of millions of records, real-time collaboration, API triggers, and customized workflow automation without seat-based pricing traps.
 
 - **[Vikunja](https://github.com/go-vikunja/vikunja)** [![GitHub stars](https://img.shields.io/github/stars/go-vikunja/vikunja?style=social&color=white)](https://github.com/go-vikunja/vikunja/stargazers)  
-  Self-hosted to-do list and task management application supporting multiple views (list, Gantt, table, kanban), task reminders, subtasks, and attachments.
+  *The to-do list and task management system you genuinely own and host.*  
+  Features Gantt charts, subtasks, deadlines, reminders, kanban boards, and CalDAV synchronization.
 
 - **[Rallly](https://github.com/lukevella/rallly)** [![GitHub stars](https://img.shields.io/github/stars/lukevella/rallly?style=social&color=white)](https://github.com/lukevella/rallly/stargazers)  
-  Open-source meeting scheduling and collaboration polling tool designed to simplify scheduling across groups without email clutter (alternative to Doodle).
+  *Open-source meeting scheduling and consensus polling tool.*  
+  Replaces Doodle and When2meet with a clean, ad-free interface for finding mutual availability across distributed groups.
 
 - **[Alexandrie](https://github.com/Smaug6739/Alexandrie)** [![GitHub stars](https://img.shields.io/github/stars/Smaug6739/Alexandrie?style=social&color=white)](https://github.com/Smaug6739/Alexandrie/stargazers)  
-  Self-hosted, offline-first Markdown note-taking and knowledge base application with workspaces, categories, multi-tenant teams, OIDC/SSO, and S3 backups.
+  *Self-hosted, offline-first Markdown knowledge base and documentation portal.*  
+  Includes multi-tenant team management, OIDC/SSO authentication, S3 backup integration, and instant one-command deployment.
 
 ---
 
-**Frameworks for building custom systems**: Combine **Plane** or **Vikunja** for project tracking, **AFFiNE**, **AppFlowy**, or **Alexandrie** for knowledge management, **n8n** or **Activepieces** for workflow automation, **Vaultwarden** for credentials, **NocoDB** or **Baserow** for database operations, and **Excalidraw** / **tldraw** for visual collaboration—all deployable via Docker Compose on a single server or Kubernetes cluster.
+## 🏗️ Architectural Recipes: Building Sovereign Stacks
 
-## How to Contribute
+You can combine these modular open-source building blocks into a production-ready, vendor-neutral operating stack:
 
-1. Fork the repo.
-2. Add/edit entries in `README.md` (follow existing format).
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-4. Submit PR with a short explanation.
+```mermaid
+flowchart TD
+    subgraph Identity_Security ["🔐 Identity & Credential Layer"]
+        VW["Vaultwarden (Passwords & Secrets)"]
+    end
 
-Star the repo if you find it useful!
+    subgraph Operations_PM ["📋 Operations & Work Management"]
+        PL["Plane (Sprints & Issues)"]
+        VK["Vikunja (Tasks & Reminders)"]
+    end
 
-## Disclaimer
+    subgraph Knowledge_Docs ["🧠 Knowledge & Documentation"]
+        AF["AFFiNE / AppFlowy (Wikis & Docs)"]
+        AL["Alexandrie (Technical Docs)"]
+    end
 
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-- Productivity tools handling business data must comply with applicable privacy regulations (GDPR, CCPA) and organizational security policies.
-- Self-hosted open-source alternatives require proper backups, access controls, and regular updates; automation platforms with app credentials should be secured with least-privilege scoping.
+    subgraph Data_Orchestration ["⚡ Data & Workflow Automation"]
+        N8["n8n / Activepieces (Event Bus & Logic)"]
+        NC["NocoDB / Baserow (Relational Data Engine)"]
+    end
+
+    subgraph Collab_Comms ["🤝 Visual Collaboration & Comms"]
+        EX["Excalidraw / tldraw (Whiteboards)"]
+        CAL["Cal.com (Meeting Infrastructure)"]
+        DOC["Documenso (Contract Signing)"]
+    end
+
+    VW --> Operations_PM
+    Operations_PM <--> Data_Orchestration
+    Knowledge_Docs <--> Data_Orchestration
+    Data_Orchestration <--> Collab_Comms
+```
 
 ---
 
-**Made for operations teams, productivity enthusiasts, developers, and organizations building sovereign workflows.**  
-Let's make business utilities more open, automatable, and user-controlled.
+## 🤝 How to Contribute
+
+Contributions, bug reports, and suggestions are warmly welcome!
+
+1. 🍴 **Fork the repository** on GitHub.
+2. 🌿 **Create a new branch**: `git checkout -b feature/amazing-tool`.
+3. 📝 **Add your entry** under the appropriate section adhering to formatting standards.
+4. 🔎 Ensure descriptions are factual, links point to canonical sources, and pricing/star badges are accurate.
+5. 🚀 **Commit & push**: `git commit -m "Add AmazingTool" && git push origin feature/amazing-tool`.
+6. 📬 **Submit a Pull Request** with a brief summary of the project.
+
+---
+
+## 💖 Support & Sponsorship
+
+If you find this curated directory helpful for your workflows, projects, or organization, please consider supporting the ongoing maintenance and curation!
+
+- ⭐ **Star this repository** to help others discover it.
+- 🍴 **Fork and share** it with your developer and operations networks.
+- ☕ **Sponsor or buy a coffee**: Support the author directly via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
+
+Thank you for your encouragement and support in keeping business utilities open, transparent, and sovereign! 🙌
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Business-Utility-Productivity-Tools&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Business-Utility-Productivity-Tools&type=date&legend=top-left)
+
+---
+
+## ⚖️ Disclaimer
+
+- This repository is a community-curated index compiled for educational and organizational reference; inclusion does not constitute a formal commercial endorsement.
+- All trademarks, logos, and brand names are the property of their respective owners.
+- When self-hosting tools that process sensitive business or customer data, organizations must implement adequate security safeguards (including automated offsite backups, least-privilege API scoping, TLS encryption, and compliance with applicable data privacy regulations such as GDPR and CCPA).
+
+---
+
+<div align="center">
+  <b>Built for operations leads, developers, and organizations building sovereign workflows. 🌐</b>
+</div>
