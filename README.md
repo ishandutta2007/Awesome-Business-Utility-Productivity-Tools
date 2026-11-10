@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Business-Utility-Productivity-Tools/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Business-Utility-Productivity-Tools?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Business-Utility-Productivity-Tools/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Business-Utility-Productivity-Tools?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Business-Utility-Productivity-Tools/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Business-Utility-Productivity-Tools?style=social" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Business-Utility-Productivity-Tools/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Business-Utility-Productivity-Tools?color=green" alt="Issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Business-Utility-Productivity-Tools/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License" /></a>
@@ -64,73 +64,73 @@ The table below lists leading commercial business utilities sorted in descending
 
 ## 🛠️ Open-Source GitHub Projects
 
-Self-hostable, sovereign, and privacy-respecting alternatives that liberate organizations from proprietary lock-in. Sorted in descending order by GitHub star count:
+Self-hostable, sovereign, and privacy-respecting alternatives that liberate organizations from proprietary lock-in. Sorted in descending order by GitHub Stars_Count:
 
-- **[n8n](https://github.com/n8n-io/n8n)** [![GitHub stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white)](https://github.com/n8n-io/n8n/stargazers)  
+- **[n8n](https://github.com/n8n-io/n8n)** [![GitHub_Stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white)](https://github.com/n8n-io/n8n/stargazers)  
   *Fair-code workflow automation platform with native AI agent orchestration and 400+ pre-built integrations.*  
   Enables developers to visually construct multi-step business logic, write custom JavaScript/Python transformations, execute self-hosted webhooks, and replace commercial Zapier workflows with full data governance.
 
-- **[Excalidraw](https://github.com/excalidraw/excalidraw)** [![GitHub stars](https://img.shields.io/github/stars/excalidraw/excalidraw?style=social&color=white)](https://github.com/excalidraw/excalidraw/stargazers)  
+- **[Excalidraw](https://github.com/excalidraw/excalidraw)** [![GitHub_Stars](https://img.shields.io/github/stars/excalidraw/excalidraw?style=social&color=white)](https://github.com/excalidraw/excalidraw/stargazers)  
   *Virtual hand-drawn whiteboard for collaborative architecture diagrams and wireframes.*  
   Offers end-to-end encryption, infinite canvas navigation, live multi-cursor collaboration, and flexible export capabilities without external SaaS tracking.
 
-- **[AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)** [![GitHub stars](https://img.shields.io/github/stars/AppFlowy-IO/AppFlowy?style=social&color=white)](https://github.com/AppFlowy-IO/AppFlowy/stargazers)  
+- **[AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)** [![GitHub_Stars](https://img.shields.io/github/stars/AppFlowy-IO/AppFlowy?style=social&color=white)](https://github.com/AppFlowy-IO/AppFlowy/stargazers)  
   *Privacy-first, open-source collaborative workspace alternative to Notion.*  
   Engineered with Flutter and Rust for high performance, local-first offline support, complete data sovereignty, AI-assisted writing, and database views.
 
-- **[AFFiNE](https://github.com/toeverything/AFFiNE)** [![GitHub stars](https://img.shields.io/github/stars/toeverything/AFFiNE?style=social&color=white)](https://github.com/toeverything/AFFiNE/stargazers)  
+- **[AFFiNE](https://github.com/toeverything/AFFiNE)** [![GitHub_Stars](https://img.shields.io/github/stars/toeverything/AFFiNE?style=social&color=white)](https://github.com/toeverything/AFFiNE/stargazers)  
   *Next-gen all-in-one knowledge base uniting structured Markdown documents and Miro-style whiteboards.*  
   Features an offline-first architecture, customizable canvas modes, and seamless self-hosting via Docker Compose.
 
-- **[Vaultwarden](https://github.com/dani-garcia/vaultwarden)** [![GitHub stars](https://img.shields.io/github/stars/dani-garcia/vaultwarden?style=social&color=white)](https://github.com/dani-garcia/vaultwarden/stargazers)  
+- **[Vaultwarden](https://github.com/dani-garcia/vaultwarden)** [![GitHub_Stars](https://img.shields.io/github/stars/dani-garcia/vaultwarden?style=social&color=white)](https://github.com/dani-garcia/vaultwarden/stargazers)  
   *Lightweight Bitwarden-compatible password vault backend implemented in Rust.*  
   Provides full compatibility with official Bitwarden browser extensions, desktop clients, and mobile apps while consuming negligible memory.
 
-- **[NocoDB](https://github.com/nocodb/nocodb)** [![GitHub stars](https://img.shields.io/github/stars/nocodb/nocodb?style=social&color=white)](https://github.com/nocodb/nocodb/stargazers)  
+- **[NocoDB](https://github.com/nocodb/nocodb)** [![GitHub_Stars](https://img.shields.io/github/stars/nocodb/nocodb?style=social&color=white)](https://github.com/nocodb/nocodb/stargazers)  
   *Open-source smart spreadsheet and no-code database turning relational databases into Airtable interfaces.*  
   Connects directly to PostgreSQL, MySQL, SQL Server, and SQLite with collaborative Grid, Gallery, Form, and Kanban views.
 
-- **[Plane](https://github.com/makeplane/plane)** [![GitHub stars](https://img.shields.io/github/stars/makeplane/plane?style=social&color=white)](https://github.com/makeplane/plane/stargazers)  
+- **[Plane](https://github.com/makeplane/plane)** [![GitHub_Stars](https://img.shields.io/github/stars/makeplane/plane?style=social&color=white)](https://github.com/makeplane/plane/stargazers)  
   *Open-source project management platform built as an alternative to Jira, Linear, and ClickUp.*  
   Offers sprint cycles, module tracking, live issue triage, documentation pages, and GitHub synchronization in a responsive, modern interface.
 
-- **[Twenty](https://github.com/twentyhq/twenty)** [![GitHub stars](https://img.shields.io/github/stars/twentyhq/twenty?style=social&color=white)](https://github.com/twentyhq/twenty/stargazers)  
+- **[Twenty](https://github.com/twentyhq/twenty)** [![GitHub_Stars](https://img.shields.io/github/stars/twentyhq/twenty?style=social&color=white)](https://github.com/twentyhq/twenty/stargazers)  
   *Modern open-source CRM platform engineered as a modular alternative to Salesforce and HubSpot.*  
   Provides full control over customer relational data, customizable pipelines, GraphQL/REST APIs, and native AI capabilities.
 
-- **[tldraw](https://github.com/tldraw/tldraw)** [![GitHub stars](https://img.shields.io/github/stars/tldraw/tldraw?style=social&color=white)](https://github.com/tldraw/tldraw/stargazers)  
+- **[tldraw](https://github.com/tldraw/tldraw)** [![GitHub_Stars](https://img.shields.io/github/stars/tldraw/tldraw?style=social&color=white)](https://github.com/tldraw/tldraw/stargazers)  
   *Ultra-responsive infinite canvas library and collaborative digital whiteboard SDK.*  
   Powers embeddable diagramming, custom interactive canvas experiences, and team brainstorms with a minimalistic React toolkit.
 
-- **[Cal.com](https://github.com/calcom/cal.com)** [![GitHub stars](https://img.shields.io/github/stars/calcom/cal.com?style=social&color=white)](https://github.com/calcom/cal.com/stargazers)  
+- **[Cal.com](https://github.com/calcom/cal.com)** [![GitHub_Stars](https://img.shields.io/github/stars/calcom/cal.com?style=social&color=white)](https://github.com/calcom/cal.com/stargazers)  
   *Extensible, enterprise-grade scheduling infrastructure and Calendly alternative.*  
   Offers white-label calendar bookings, round-robin team scheduling, video routing, custom webhook webhooks, and self-hosted deployment.
 
-- **[Focalboard](https://github.com/mattermost-community/focalboard)** [![GitHub stars](https://img.shields.io/github/stars/mattermost-community/focalboard?style=social&color=white)](https://github.com/mattermost-community/focalboard/stargazers)  
+- **[Focalboard](https://github.com/mattermost-community/focalboard)** [![GitHub_Stars](https://img.shields.io/github/stars/mattermost-community/focalboard?style=social&color=white)](https://github.com/mattermost-community/focalboard/stargazers)  
   *Self-hosted multilingual project tracking dashboard and Trello/Asana alternative from Mattermost.*  
   Organizes personal and team deliverables across kanban boards, table grids, and calendar timelines.
 
-- **[Activepieces](https://github.com/activepieces/activepieces)** [![GitHub stars](https://img.shields.io/github/stars/activepieces/activepieces?style=social&color=white)](https://github.com/activepieces/activepieces/stargazers)  
+- **[Activepieces](https://github.com/activepieces/activepieces)** [![GitHub_Stars](https://img.shields.io/github/stars/activepieces/activepieces?style=social&color=white)](https://github.com/activepieces/activepieces/stargazers)  
   *MIT-licensed no-code business automation tool with AI agent orchestration and MCP server support.*  
   Empowers teams to assemble event-driven flows, integrate internal APIs, and automate operational workflows with self-hosted Docker containers.
 
-- **[Documenso](https://github.com/documenso/documenso)** [![GitHub stars](https://img.shields.io/github/stars/documenso/documenso?style=social&color=white)](https://github.com/documenso/documenso/stargazers)  
+- **[Documenso](https://github.com/documenso/documenso)** [![GitHub_Stars](https://img.shields.io/github/stars/documenso/documenso?style=social&color=white)](https://github.com/documenso/documenso/stargazers)  
   *The open-source digital signing platform and modern alternative to DocuSign.*  
   Enables verifiable, cryptographically secured document signing workflows, custom templates, and automated signing pipelines.
 
-- **[Baserow](https://github.com/baserow/baserow)** [![GitHub stars](https://img.shields.io/github/stars/baserow/baserow?style=social&color=white)](https://github.com/baserow/baserow/stargazers)  
+- **[Baserow](https://github.com/baserow/baserow)** [![GitHub_Stars](https://img.shields.io/github/stars/baserow/baserow?style=social&color=white)](https://github.com/baserow/baserow/stargazers)  
   *No-code modular database platform designed for enterprise scale and Airtable parity.*  
   Handles tens of millions of records, real-time collaboration, API triggers, and customized workflow automation without seat-based pricing traps.
 
-- **[Vikunja](https://github.com/go-vikunja/vikunja)** [![GitHub stars](https://img.shields.io/github/stars/go-vikunja/vikunja?style=social&color=white)](https://github.com/go-vikunja/vikunja/stargazers)  
+- **[Vikunja](https://github.com/go-vikunja/vikunja)** [![GitHub_Stars](https://img.shields.io/github/stars/go-vikunja/vikunja?style=social&color=white)](https://github.com/go-vikunja/vikunja/stargazers)  
   *The to-do list and task management system you genuinely own and host.*  
   Features Gantt charts, subtasks, deadlines, reminders, kanban boards, and CalDAV synchronization.
 
-- **[Rallly](https://github.com/lukevella/rallly)** [![GitHub stars](https://img.shields.io/github/stars/lukevella/rallly?style=social&color=white)](https://github.com/lukevella/rallly/stargazers)  
+- **[Rallly](https://github.com/lukevella/rallly)** [![GitHub_Stars](https://img.shields.io/github/stars/lukevella/rallly?style=social&color=white)](https://github.com/lukevella/rallly/stargazers)  
   *Open-source meeting scheduling and consensus polling tool.*  
   Replaces Doodle and When2meet with a clean, ad-free interface for finding mutual availability across distributed groups.
 
-- **[Alexandrie](https://github.com/Smaug6739/Alexandrie)** [![GitHub stars](https://img.shields.io/github/stars/Smaug6739/Alexandrie?style=social&color=white)](https://github.com/Smaug6739/Alexandrie/stargazers)  
+- **[Alexandrie](https://github.com/Smaug6739/Alexandrie)** [![GitHub_Stars](https://img.shields.io/github/stars/Smaug6739/Alexandrie?style=social&color=white)](https://github.com/Smaug6739/Alexandrie/stargazers)  
   *Self-hosted, offline-first Markdown knowledge base and documentation portal.*  
   Includes multi-tenant team management, OIDC/SSO authentication, S3 backup integration, and instant one-command deployment.
 
@@ -182,7 +182,7 @@ Contributions, bug reports, and suggestions are warmly welcome!
 1. 🍴 **Fork the repository** on GitHub.
 2. 🌿 **Create a new branch**: `git checkout -b feature/amazing-tool`.
 3. 📝 **Add your entry** under the appropriate section adhering to formatting standards.
-4. 🔎 Ensure descriptions are factual, links point to canonical sources, and pricing/star badges are accurate.
+4. 🔎 Ensure descriptions are factual, links point to canonical sources, and pricing/Stars_Badges are accurate.
 5. 🚀 **Commit & push**: `git commit -m "Add AmazingTool" && git push origin feature/amazing-tool`.
 6. 📬 **Submit a Pull Request** with a brief summary of the project.
 
