@@ -1,6 +1,6 @@
 # Awesome-Business-Utility-Productivity-Tools
 
-# Top Business Utility & Productivity Tools Ecosystem
+## Top Business Utility & Productivity Tools Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Workflow Automation, Knowledge Management & Team Collaboration Utilities*  
